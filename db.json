@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Angel",
+      "surname": "Lopez",
+      "phone": {
+        "claro": "+505349222",
+        "tigo": "+505349222"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ernesto",
+      "surname": "Carrillo",
+      "phone": {
+        "claro": "50534522",
+        "tigo": "505343522"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jose",
+      "surname": "Barberena",
+      "phone": {
+        "claro": "5053452455",
+        "tigo": "50534352233"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jonathan",
+      "surname": "Diaz",
+      "phone": {
+        "claro": "50534545522",
+        "tigo": "50534352432"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Katherine",
+      "surname": "Garcia",
+      "phone": {
+        "claro": "50344545522",
+        "tigo": "502343442432"
+      }
+    },
+    {
+      "id": 6,
+      "name": "celeste",
+      "surname": "Ruiz",
+      "phone": {
+        "claro": "3473934934834",
+        "tigo": "3473934934834"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Julia",
+      "surname": "Hurtado",
+      "phone": {
+        "claro": "3454332322",
+        "tigo": "3454332322"
+      }
+    }
+  ],
+  "comments": {
+    "id": 1,
+    "comment": "This is a comment"
+  }
+}
